@@ -23,7 +23,7 @@
     "url": "https://github.com/lmichelin/stylelint-css-modules-no-global-scoped-selector/issues"
   },
   "peerDependencies": {
-    "stylelint": "^13.0.0 || ^14.0.0"
+    "stylelint": "^13.0.0 || ^14.0.0 || ^15.0.0"
   },
   "dependencies": {
     "lodash": "^4.17.21",
